@@ -1,4 +1,4 @@
-print("Program starting.\n")
+print("Program starting.")
 
 Color = input("Insert a hex color: \n")
 
